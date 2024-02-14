@@ -49,10 +49,3 @@ INSERT INTO s2559258.munros (MUNRO_ID, NAME, HEIGHT, XCOORD, YCOORD, COMMENTS, W
 (48, 'Sgairneach Mhor', 991, -4.29779, 56.82845, NULL, NULL),
 (49, 'Sgor an Lochain Uaine', 1258, -3.7259, 57.05838, NULL, NULL),
 (50, 'Sgor Gaoith', 1116, -3.81086, 57.06856, NULL, NULL),
-(51, 'The Cairnwell', 933, -3.4212, 56.87952, NULL, NULL),
-(52, 'The Devil''s Point', 1006.9, -3.6888, 57.03571, NULL, NULL),
-(53, 'Tolmount', 957.8, -3.29795, 56.90472, NULL, 1),
-(54, 'Tom Buidhe', 957.8, -3.29236, 56.89362, NULL, 1)
-/
-
-
